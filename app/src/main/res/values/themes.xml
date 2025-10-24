@@ -3,8 +3,10 @@
     <style name="Base.Theme.Projeto1" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">#EE0000</item>
-        <item name="colorPrimaryDark">#EE0000</item>
+        <item name="colorPrimaryDark">#7A1919</item>
         <item name="android:textColor">#FFFFFF</item>
+        <item name="colorAccent">#7A1919</item>
+
     </style>
 
     <style name="Theme.Projeto1" parent="Base.Theme.Projeto1" />
